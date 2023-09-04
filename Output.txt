@@ -1,0 +1,7 @@
+ OUTPUT:
+            Enter the Money that Ryan have:10
+            total candies Ryan can buy: 40.0
+            Extra candies: 13.333333333333334
+            Wrapper_count: 14.333333333333334
+            total_candies: 53.333333333333336
+            the total number of candies Ryan Have at last: 59.70370370370371
